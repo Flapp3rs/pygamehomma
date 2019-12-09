@@ -1,7 +1,3 @@
-# tyhjyys 
+# Joku koodaus juttu
 
-jee
-
-# lisää tyhjyyttä
-
-jee
+![kuvani] (tausta.png)
